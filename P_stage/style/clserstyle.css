@@ -1,0 +1,13 @@
+#tabledivclser{
+    min-height: 90%;
+}
+.ftsdiv{
+    width: 100%;
+    padding-left: 30px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    
+}
+.ftsdiv table{
+    width: max-content;
+}
